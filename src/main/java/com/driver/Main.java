@@ -2,8 +2,8 @@ package com.driver;
 
 public class Main {
 
-    public class A{
-        String meth(){
+    public static class A{
+         String meth(){
             return "Invokin method from class A";
         }
     }
